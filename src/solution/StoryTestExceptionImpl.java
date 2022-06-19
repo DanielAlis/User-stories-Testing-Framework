@@ -1,7 +1,7 @@
 package solution;
 
 import provided.StoryTestException;
-
+// This is where the magic happens
 public class StoryTestExceptionImpl extends StoryTestException {
     private int failCount;
     private String firstExpected;
